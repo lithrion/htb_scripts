@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+
+#This is the proof of concept for CVE-2019-17240 found at
+#https://rastating.github.io/bludit-brute-force-mitigation-bypass/
+#with a few minor alterations to work on the HTB machine blunder
+#
 import re
 import requests
 import random
